@@ -20,15 +20,48 @@ main {
     background-color: #dfd;
 }
 
-.hN {
-    margin: 0;
-    color: #333;
-}
-
 section {
     padding: 1em 1em;
 }
 
 section:nth-of-type(odd) {
     background-color: #bdb;
+}
+
+a {
+    color: #292;
+    padding: 0.5em 0.5em;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #8d8;
+}
+
+.hN {
+    margin: 0;
+    color: #333;
+}
+
+a {
+    color: #292;
+    padding: 0.5em 0.5em;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #8d8;
+}
+
+.kvpair {
+    padding: 1em 1em;
+}
+
+.subsection p {
+    margin: 0.75em;
+}
+
+.subsection hr {
+    width: 90%;
+    color: #ccc;
 }

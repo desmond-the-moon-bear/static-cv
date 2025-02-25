@@ -4,3 +4,23 @@ body {
     text-align: justify;
     color: #555;
 }
+
+header {
+    margin: 0 auto;
+    padding: 2em 5em;
+    max-width: 55em;
+
+    background-color: #bdb;
+}
+
+main {
+    margin: 0 auto;
+    padding: 2em 5em;
+    max-width: 55em;
+    background-color: #dfd;
+}
+
+.hN {
+    margin: 0;
+    color: #333;
+}
